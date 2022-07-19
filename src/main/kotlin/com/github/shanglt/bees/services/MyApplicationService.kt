@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shanglt.bees.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shanglt.bees.MyBundle
 
 class MyApplicationService {
 
